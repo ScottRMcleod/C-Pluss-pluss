@@ -24,7 +24,7 @@ To build an application that is cross platform, able to create 3d objects in a s
 
 •	Terrain Editor option to build terrain in scene
 
-•	Particle Engine to assit in water effects
+•	Particle Engine to assit in element effects
 
 •	Gravity 
 
