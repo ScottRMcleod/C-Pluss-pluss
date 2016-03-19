@@ -5,6 +5,7 @@ This is a Simple 3d Scene Graph Application Written in C++ .
 # Project Purpose:
 
 To build an application that is cross platform, able to create 3d objects in a scene.
+
 3d objects must Scale, Rotate and move, using sliders controls and parent and unparent objects in the scene.    
 
 # API's Used: 
