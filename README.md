@@ -18,19 +18,19 @@ To build an application that is cross platform, able to create 3d objects in a s
 
 •	Include OBJ and FBX support
 
-•	Script Editor to change and manipulate player control
+•	Script Editor to change and manipulate object controls
 
-•	Create 2d HUD with player map Health, Manager bar
+•	Create 2d HUD with location map life, Manager bar
 
-•	Terrain Editor option to build levels
+•	Terrain Editor option to build terrain in scene
 
-•	Particle Engine 
+•	Particle Engine to assit in water effects
 
 •	Gravity 
 
 •	Collision Detection
 
-•	Basic hero and enemy AI
+•	Basic object AI
 
 •	Extension to cater for FPS games and Racing game support.
 
