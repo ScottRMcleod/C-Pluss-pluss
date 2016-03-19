@@ -6,13 +6,13 @@ Project Purpose:
 To build an application that is cross platform, able to create 3d objects in a scene.
 3d objects must Scale, Rotate and move, using sliders controls and parent and unparent objects in the scene.    
 
-API's Used: 
+# API's Used: 
 
 •	SDL 
 
 •	OpenGL
 
-Extension Plans:
+# Extension Plans:
 
 •	Include OBJ and FBX support
 
