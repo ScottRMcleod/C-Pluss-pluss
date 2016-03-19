@@ -26,6 +26,8 @@ To build an application that is cross platform, able to create 3d objects in a s
 
 •	Particle Engine 
 
+•	Gravity 
+
 •	Collision Detection
 
 •	Basic hero and enemy AI
