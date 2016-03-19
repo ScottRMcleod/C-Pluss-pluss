@@ -1,23 +1,23 @@
 # C-Pluss-pluss
 C++ Applications
-This is a Simple 3d Scene Graph Application 
+This is a Simple 3d Scene Graph Application Written in C++ .
 
-Written in c++ 
+Project Purpose:
+To build an application that is cross platform, able to create 3d objects in a scene.
+3d objects must Scale, Rotate and move, using sliders controls and parent and unparent objects in the scene.    
 
-API's Used 
-SDL 
-OpenGL
+API's Used: 
+•	SDL 
+•	OpenGL
 
-Extention Plans
+Extension Plans:
+•	Include OBJ and FBX support
+•	Script Editor to change and manipulate player control
+•	Create 2d HUD with player map Health, Manager bar
+•	Terrain Editor option to build levels
+•	Particle Engine 
+•	Collision Detection
+•	Basic hero and enemy AI
+•	Extension to cater for FPS games and Racing game support.
 
-include OBJ and FBX support
-
-Script Editor to change and maipulate player control
-create 2d Hud with player map
-create Terrain Editor option to build levels
-Partical Enginee 
-
-Colision Detection
-basic hero and enermy AI
-Extentions for FPS games as well as Racing game Support
 
