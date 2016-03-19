@@ -1,5 +1,5 @@
-# C-Pluss-pluss
-C++ Applications
+# C++ Applications
+
 This is a Simple 3d Scene Graph Application Written in C++ .
 
 Project Purpose:
